@@ -2,4 +2,4 @@
 
 </br>
 
-Auteur: *Raf Vanhoegaerden*
+Author: *Raf Vanhoegaerden*
