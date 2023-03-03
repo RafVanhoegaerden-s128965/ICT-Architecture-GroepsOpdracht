@@ -61,7 +61,7 @@ Zondag 21 mei 23:55
 ## Opvolging
 
 <details>
-<summary>3 Maart</summary>
+<summary>Labo 3 Maart</summary>
 
 Inleiding git + Casus
 >>
